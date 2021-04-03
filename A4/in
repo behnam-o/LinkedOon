@@ -1,0 +1,19 @@
+create_customer Peter Mims
+create_customer Paul Turnage
+create_customer Elize Sanders
+create_customer Angel Garces
+create_account 1 2 1000
+create_account 3 1000
+book_transaction 0 1 100
+approve_transaction 0 2
+book_transaction 0 1 200
+approve_transaction 0 1
+add_owner 0 0
+add_owner 1 0
+approve_transaction 1 1
+decline_transaction 1 2
+book_transaction 1 0 600
+approve_transaction 2 3
+approve_transaction 2 0
+show_account 0
+show_account 1

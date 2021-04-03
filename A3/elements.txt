@@ -1,0 +1,11 @@
+Pit 12
+Coin 17 4
+Coin 20 4
+Coin 26 3
+Pit 27
+Coin 34 3
+Rocket 36
+Rocket 38
+Coin 49 4
+Coin 50 5
+Rocket 52
